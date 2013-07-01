@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Blog Baru"
+date: 2013-07-01 22:28
+comments: true
+categories: 
+- aplikasi
+---
+
+Agar pembahasan lebih fokus, baiklah kita buat blog baru.
+
+<!--more-->
+
+Blog ini akan berisi catatan perjalanan, foto, dan tips manajemen.
+
+Contoh upload foto
+
+{% img /images/uploads/2013/07/khalisa-in-red.jpg 'Khalisa in Red' %}

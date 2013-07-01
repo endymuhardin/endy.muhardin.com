@@ -1,0 +1,24 @@
+---
+layout: default
+single: true
+---
+
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">{% include article.html %}</article>
+{% unless page.sharing == false %}
+	{% include post/sharing.html %}
+{% endunless %}
+{% if site.disqus_short_name and page.comments == true %}
+<section id="comment">
+    <h1 class="title">Comments</h1>
+    <div id="disqus_thread" aria-live="polite">{% include post/disqus_thread.html %}</div>
+</section>
+{% endif %}
+
+{% if site.facebook_appid and page.comments == true %}
+<section>
+  <h1>Comments</h1>
+  <div id="facebook_comments" aria-live="polite">
+    {% include post/facebook_comments.html %}
+  </div>
+</section>
+{% endif %}
