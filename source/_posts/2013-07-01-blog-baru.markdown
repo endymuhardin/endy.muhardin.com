@@ -4,7 +4,7 @@ title: "Blog Baru"
 date: 2013-07-01 22:28
 comments: true
 categories: 
-- aplikasi
+- others
 ---
 
 Agar pembahasan lebih fokus, baiklah kita buat blog baru.
