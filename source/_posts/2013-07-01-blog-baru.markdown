@@ -7,12 +7,32 @@ categories:
 - others
 ---
 
-Agar pembahasan lebih fokus, baiklah kita buat blog baru.
+Kira-kira setahun yang lalu, saya memindahkan blog lama saya di `http://endy.artivisi.com`
+ke domain baru `endy.muhardin.com`. Karena content blog yang 90% 
+berkisar membahas dunia pemrograman (khususnya Java) dan konfigurasi server (khususnya Linux),
+maka saya taruh di subdomain `software.endy.muhardin.com`.
+
+Belakangan ini, saya mulai memikirkan content lain yang membahas non-IT, 
+seperti pengalaman saya dalam membangun perusahaan, tips dan trik manajemen, 
+dan hal-hal lain seputar kehidupan dan hobi yang mudah-mudahan bisa bermanfaat juga bagi pembacanya.
 
 <!--more-->
 
-Blog ini akan berisi catatan perjalanan, foto, dan tips manajemen.
+Contohnya foto berikut ini.
 
-Contoh upload foto
+{% img /images/uploads/2013/07/khalisa-in-red.jpg 400 'Khalisa in Red' %}
 
-{% img /images/uploads/2013/07/khalisa-in-red.jpg 'Khalisa in Red' %}
+Buat pembaca blog saya terdahulu yang mayoritas programmer, mungkin foto di atas biasa saja.
+Tapi di komunitas fotografi yang saya ikuti, foto di atas bisa jadi sangat menarik, 
+karena dibuat hanya dengan satu lampu kilat saja. 
+Pembahasan tentang teknik behind the scene dari foto di atas tentu kurang cocok 
+kalau dimuat di blog tentang pemrograman. Selain beda segmen pembaca, 
+juga kurang baik ditinjau dari sisi branding dan SEO.
+
+Ke depan, bisa jadi nantinya blog ini akan dipecah lagi ke dalam subdomain yang sesuai dengan topiknya.
+
+Aplikasi yang digunakan di sini sama dengan blog sebelumnya, yaitu menggunakan [Octopress](http://octopress.org).
+
+Oh iya, bagi yang penasaran tentang penggunaan satu flash pada foto di atas, berikut diagram pengaturannya.
+
+{% img /images/uploads/2013/07/lighting-diagram-khalisa-in-red.png 'Lighting Diagram' %}
