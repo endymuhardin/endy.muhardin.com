@@ -4,7 +4,7 @@ title: "Blog Baru"
 date: 2013-07-01 22:28
 comments: true
 categories: 
-- others
+- lain-lain
 ---
 
 Kira-kira setahun yang lalu, saya memindahkan blog lama saya di `http://endy.artivisi.com`
