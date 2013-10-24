@@ -77,14 +77,14 @@ Anak-anak lega karena serigala tidak menemukan apa-apa
 > Karena rumah Jago sudah dibuat dengan baik, serigala tidak berhasil mendobraknya.
 > Serigala pun kesakitan karena mendobrak pintu yang keras.
 
-{% img /images/uploads/2013/10/saung-h-haris/DSC_6781.JPG 600 Serigala kesakitan %}
+{% img /images/uploads/2013/10/saung-h-haris/amazed.JPG 600 Anak-anak terperangah %}
 
 > Setelah tidak berhasil mendobrak pintu, serigala pun berlalu.
 
 Pesan moral : ~~Kalau kamu malas, bertemanlah dengan orang rajin agar selamat.~~ ;)
 Oh maksud saya, pesan moral dari dongeng ini adalah `rajin pangkal selamat`. 
 
-{% img /images/uploads/2013/10/saung-h-haris/DSC_6790.JPG 400 Pesan Moral %}
+{% img /images/uploads/2013/10/saung-h-haris/laugh.JPG 400 Anak-anak Tertawa %}
 
 ## Membuat Prakarya ##
 
