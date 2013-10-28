@@ -36,28 +36,28 @@ Berikut screen capture chat saya dengan salah satu rekan pengguna smartphone.
 
 <!--more-->
 
-{% img /images/uploads/2013/10/smartphone-privacy/chat-01.png %}
+{% img /images/uploads/2013/10/smartphone-privacy/chat-01.png 400 %}
 
 Dari percakapan pembuka di atas, jelas bahwa orang yang saya ajak bicara adalah Emak-emak Ber-iPhone (EBI). Ini bisa disimpulkan dari aktivitasnya, memasak dengan bermodalkan Youtube :P Walaupun Anda merasa bukan EBI, jangan senang dulu, bisa jadi sisa pembicaraannya mirip-mirip.
 
-{% img /images/uploads/2013/10/smartphone-privacy/chat-02.png %}
+{% img /images/uploads/2013/10/smartphone-privacy/chat-02.png 400 %}
 
 Image yang saya kirim sebetulnya hanya salah satu dari dua screen capture yang saya buat dari Instagram. Semua orang bisa mengakses screen seperti yang saya capture melalui Instagram. Caranya: masuk ke profil orang yang kita follow, lalu klik icon yang mirip seperti pin Google Map. Berikut iconnya.
 
-{% img /images/uploads/2013/10/smartphone-privacy/ig-photomap.png %}
+{% img /images/uploads/2013/10/smartphone-privacy/ig-photomap.png 400 %}
 
 Capture pertama menunjukkan bahwa rekan saya ini sering keliling dunia.
 
-{% img /images/uploads/2013/10/smartphone-privacy/IG-PhotoMap-01.png %}
+{% img /images/uploads/2013/10/smartphone-privacy/IG-PhotoMap-01.png 400 %}
 
 
 Kita bisa zoom ke foto-foto yang dibuat di Indonesia saja
 
 {% img /images/uploads/2013/10/smartphone-privacy/IG-PhotoMap-02.png %}
 
-Capture dari screen inilah yang saya kirim ke beliau. Mari kita lanjutkan pembicaraannya.
+Capture dari screen inilah yang saya kirim ke beliau. Sebenarnya masih bisa dizoom lagi sampai terlihat jalan dan persimpangannya. Seberapa detail dan akurat akan kita jabarkan di bawah. Mari kita lanjutkan pembicaraannya.
 
-{% img /images/uploads/2013/10/smartphone-privacy/chat-03.png %}
+{% img /images/uploads/2013/10/smartphone-privacy/chat-03.png 400 %}
 
 Rupanya dia mengenali screen capture tadi adalah foto-fotonya sendiri di Instagram, ditampilkan dalam peta. Saya juga menjelaskan bahwa 
 
@@ -118,7 +118,7 @@ Nah, kita sudah mendapatkan lokasi penjual lontong sayur. Bila ingin mencoba sen
 
 Kita lanjutkan chatnya.
 
-{% img /images/uploads/2013/10/smartphone-privacy/chat-04.png %}
+{% img /images/uploads/2013/10/smartphone-privacy/chat-04.png 400 %}
 
 Nah, bayangkan EBI yang _trigger-happy_. Pagi-pagi ngantar anaknya sekolah. Anaknya lagi pakai sepatu di teras, jepret. Antar anak ke sekolah, jepret. Selesai sekolah, pergi ke tempat kursus, jepret. Abis kursus lunch di mall, jepret. Lalu main di taman dekat rumah, jepret. Gak cuma jepret tentu, apply filter dan upload ke Instagram. Biar gak repot, account Instagram, Twitter, Flickr, Tumblr, BBM Group, Whatsapp Group, Line, dan Facebook dilink. Sekali upload seluruh social media terima foto.
 
@@ -157,7 +157,7 @@ Semuanya bisa didapat di Facebook. Belum puas, mari kita ke LinkedIn. Kita akan 
 * jabatan dan prestasi
 * rekan kerja, baik yang sekarang maupun di kantor lama
 
-Dari informasi LinkedIn ini, orang bisa menebak-nebak dengan cukup akurat berapa income per bulan kita. Dikombinasikan dengan informasi restoran dan tempat belanja kita, orang bahkan bisa tahu pemasukan dan pengeluaran bulanan kita. Kalau Anda sering merasa gajinya sepuluh koma (tanggal sepuluh sudah koma ;P), coba hitung dengan teliti. Waktu kita pasang status di Facebook :
+Dari informasi LinkedIn ini, orang bisa menebak-nebak dengan cukup akurat berapa income per bulan kita. Dikombinasikan dengan informasi restoran dan tempat belanja kita, orang bahkan bisa tahu pemasukan dan pengeluaran bulanan kita. Kalau Anda sering merasa gajinya sepuluh koma (tanggal sepuluh sudah koma ;P), coba hitung dengan teliti. Waktu kita pasang status di Facebook
 
 > Duh, tanggal segini udah bokek aja ya -_-
 
@@ -193,11 +193,11 @@ Di iPhone, masuk ke menu `Setting`, kemudian `Privacy`.
 
 Selanjutnya, masuk ke `Location Services`
 
-{% img /images/uploads/2013/10/smartphone-privacy/iphone-2.PNG  400%}
+{% img /images/uploads/2013/10/smartphone-privacy/iphone-2.PNG 400 %}
 
 Di sini kita bisa memilih apakah kita mau mematikan 100% fitur GPS, atau memilih aplikasi mana yang boleh menggunakan GPS.
 
-{% img /images/uploads/2013/10/smartphone-privacy/iphone-3.PNG  400%}
+{% img /images/uploads/2013/10/smartphone-privacy/iphone-3.PNG 400 %}
 
 Untuk amannya, saya biasanya cuma memberikan fitur GPS pada aplikasi peta dan navigasi. Untuk aplikasi social media saya matikan semua.
 
