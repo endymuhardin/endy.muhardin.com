@@ -230,4 +230,7 @@ Selain foto Instagram, posting update status atau chat yang kita lakukan di Face
 
 Demikianlah sedikit sharing tentang fitur geotagging dan konsekuensi yang ditimbulkannya. Mudah-mudahan setelah membaca artikel ini, kita jadi lebih _aware_ dan berhati-hati dalam berinteraksi dengan aplikasi social media.
 
-    
+_Credit : Thanks to my pen pal and ex-room-mate (in that order) for providing hilarious (albeit representative) chat log and iPhone screen capture (remember, in that order!!)_
+
+
+
