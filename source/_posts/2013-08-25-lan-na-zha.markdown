@@ -1,0 +1,40 @@
+---
+title: "Lan Na Zha"
+kind: article
+created_at: 2013-08-25 09:38:00 UTC
+author: Endy Muhardin
+layout: planet
+categories:
+- referensi
+---
+<p>Beberapa hari yang lalu, saya membaca artikel menarik tentang profesi IT.
+Inti dari artikel tersebut adalah profesi di dunia IT <em>sucks</em> dengan beberapa alasan:</p>
+
+<ol>
+<li>Pemrograman termasuk kategori <em>temporary knowledge capital</em>, yaitu pengetahuan yang cepat kadaluarsa</li>
+<li>Bahasa pemrograman, teknologi, dan platform berubah dengan sangat cepat</li>
+<li>Gajinya kecil dan prestisenya rendah</li>
+<li>Jenjang karir tidak jelas</li>
+</ol>
+
+
+<p>Artikel selengkapnya bisa dibaca <a href="http://www.halfsigma.com/2007/03/why_a_career_in.html">di sini</a>.</p>
+
+<p>Untuk masalah nomer #3 dan #4, menurut saya lebih terkait pada masalah ambisi, attitude, dan <a href="http://software.endy.muhardin.com/life/otodidak/">self-improvement/kemampuan otodidak</a>. Di artikel ini, kita akan bahas solusi untuk masalah nomer #1 dan #2.</p>
+
+<p>Seperti di artikel sebelumnya, kali ini kita juga akan mengambil teladan dari seorang tokoh di luar dunia IT. Siapa dia?</p>
+
+<p><img src="http://software.endy.muhardin.com/images/uploads/2013/08/lan-na-zha/li-shu-wen.jpg" title="Li Shu Wen" ></p>
+
+<p><em>gambar diambil dari <a href="http://mangafox.me/manga/kenji/v21/c003/3.html">MangaFox</a></em></p>
+
+<p>Dia adalah Li Shu Wen, legenda <a href="http://en.wikipedia.org/wiki/B%C4%81j%C3%ADqu%C3%A1n">kungfu Delapan Mata Angin</a> yang diceritakan di <a href="http://mangafox.me/manga/kenji/">komik Kenji</a>.</p>
+
+
+<div class="author">
+  <img src="http://www.gravatar.com/avatar/31694bbf42349c6b6adfe893bb1e19d8.png" style="width: 96px; height: 96;">
+  <span style="position: absolute; padding: 32px 15px;">
+    <i>Ditulis oleh <a href="http://twitter.com/endymuhardin">Endy Muhardin</a> <br> 
+    Artikel selengkapnya : <a href="http://software.endy.muhardin.com/life/lan-na-zha/">Lan Na Zha</a></i>
+  </span>
+</div>

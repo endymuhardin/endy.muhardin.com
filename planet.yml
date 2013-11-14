@@ -1,0 +1,14 @@
+planet:
+    posts_directory: source/_posts/
+    templates_directory: source/_layouts/
+    whitelisted_tags: []
+
+blogs:
+  - author: "Endy Muhardin"
+    feed:   "http://software.endy.muhardin.com/atom.xml"
+    image:  "http://www.gravatar.com/avatar/31694bbf42349c6b6adfe893bb1e19d8.png"
+    twitter: "endymuhardin"
+
+  - author: "Endy Muhardin"
+    feed:   "http://rana.endy.muhardin.com/atom.xml"
+    image:  "http://www.gravatar.com/avatar/33bea1d5cc52ee2a2b9ddadafb08f332.png"

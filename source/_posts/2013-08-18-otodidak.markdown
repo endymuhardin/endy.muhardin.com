@@ -1,0 +1,27 @@
+---
+title: "Otodidak"
+kind: article
+created_at: 2013-08-18 13:04:00 UTC
+author: Endy Muhardin
+layout: planet
+categories:
+- referensi
+---
+<p>Sebagai programmer, ada banyak tokoh yang bisa kita teladani, seperti Linus Torvalds, Bill Gates, Richard Stallman, Eric Raymond, Brian Kernighan, Dennis Ritchie, Erich Gamma, dan banyak lainnya. Tetapi di dunia modern seperti sekarang ini, dimana teknologi baru bermunculan lebih cepat dari kemampuan kita untuk bisa menggunakannya (apalagi bisa mempelajarinya), ada satu tokoh yang wajib kita teladani, bukan berasal dari dunia IT. Siapa dia?</p>
+
+<p><img src="http://software.endy.muhardin.com/images/uploads/2013/08/otodidak/hatake-kakashi.jpg" title="Hatake Kakashi" ></p>
+
+<p>Gambar diambil dari <a href="http://www.fanpop.com/clubs/kakashi/images/18899114/title/kakashi-hatake-screencap">Fanpop</a></p>
+
+<p>Dia adalah Hatake Kakashi dari komik Naruto.</p>
+
+<p>Kenapa begitu? Karena skill dan special ability yang dia miliki adalah juga skill dan special ability yang wajib dimiliki semua programmer tanpa kecuali, agar bisa selamat dari bencana pengangguran. Buat yang tidak mengikuti komik Naruto, berikut profil singkat Hatake Kakashi yang berkaitan dengan urusan programming. Sisanya bisa dibaca sendiri <a href="http://naruto.wikia.com/wiki/Kakashi_Hatake">di sini</a>.</p>
+
+
+<div class="author">
+  <img src="http://www.gravatar.com/avatar/31694bbf42349c6b6adfe893bb1e19d8.png" style="width: 96px; height: 96;">
+  <span style="position: absolute; padding: 32px 15px;">
+    <i>Ditulis oleh <a href="http://twitter.com/endymuhardin">Endy Muhardin</a> <br> 
+    Artikel selengkapnya : <a href="http://software.endy.muhardin.com/life/otodidak/">Otodidak</a></i>
+  </span>
+</div>
