@@ -23,7 +23,7 @@ categories:
 <div class="author">
   <img src="http://www.gravatar.com/avatar/33bea1d5cc52ee2a2b9ddadafb08f332.png" style="width: 96px; height: 96;">
   <span style="position: absolute; padding: 32px 15px;">
-    <i>Ditulis oleh <a href="http://twitter.com/">Endy Muhardin</a> <br> 
-    Artikel selengkapnya : <a href="http://rana.endy.muhardin.com/proses/thought-process/">Thought Process</a></i>
+    <i>Ditulis oleh <a href="http://about.me/endy.muhardin">Endy Muhardin</a> 
+    <a class="more-link" href="http://rana.endy.muhardin.com/proses/thought-process/">Baca selengkapnya &rarr; Thought Process</a></i>
   </span>
 </div>

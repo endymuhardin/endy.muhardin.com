@@ -40,7 +40,7 @@ Kali ini kita hanya akan membahas metode Spring JDBC dan perbandingannya dengan 
 <div class="author">
   <img src="http://www.gravatar.com/avatar/31694bbf42349c6b6adfe893bb1e19d8.png" style="width: 96px; height: 96;">
   <span style="position: absolute; padding: 32px 15px;">
-    <i>Ditulis oleh <a href="http://twitter.com/endymuhardin">Endy Muhardin</a> <br> 
-    Artikel selengkapnya : <a href="http://software.endy.muhardin.com/java/konfigurasi-koneksi-database-dengan-spring/">Konfigurasi Koneksi Database dengan Spring</a></i>
+    <i>Ditulis oleh <a href="http://about.me/endy.muhardin">Endy Muhardin</a> 
+    <a class="more-link" href="http://software.endy.muhardin.com/java/konfigurasi-koneksi-database-dengan-spring/">Baca selengkapnya &rarr; Konfigurasi Koneksi Database dengan Spring</a></i>
   </span>
 </div>
