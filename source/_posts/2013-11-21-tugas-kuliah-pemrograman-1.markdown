@@ -40,6 +40,8 @@ categories:
 
 <p>Selamat mencoba.</p>
 
+<blockquote><p>Update : tugas ini sudah saya kerjakan. Videonya bisa <a href="http://www.youtube.com/playlist?list=PL9oC_cq7OYbx58s-eCBwP-5NxKnG8SHIr">dilihat di Youtube</a> dan source codenya bisa <a href="https://github.com/endymuhardin/pemrograman-2-2013/tree/master/sample-code/aplikasi-payroll">dilihat di Github</a>.</p></blockquote>
+
 
 <div class="author">
   <img src="http://www.gravatar.com/avatar/31694bbf42349c6b6adfe893bb1e19d8.png" style="width: 96px; height: 96;">
