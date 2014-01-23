@@ -23,6 +23,8 @@ Artinya, latihan dulu 10.000 kali jepret kalau mau bikin foto seperti ini
 
 {% img https://lh5.googleusercontent.com/-Z75L9taxG0w/UuDxnGAfeAI/AAAAAAAADvQ/wLMWhwYURn0/w402-h576-no/henri-cartier-bresson-gare.jpg %}
 
+_© Henri Cartier-Bresson / Magnum Photos_
+
 Jadi kalau Anda merasa bingung, pusing, mentok pada saat belajar, jangan khawatir. Mungkin memang Anda sedang berada di fase bingung. 
 
 > Lho memangnya ada fase bingung?
@@ -181,15 +183,7 @@ Di tahap ini, kita sudah bisa bekerja dengan cepat, karena tidak perlu berpikir 
 
 Untuk programmer, dia menganalisa bagaimana antar komponen saling berhubungan. Apa kelebihan dan kekurangan [menghubungkan aplikasi secara sinkron atau asinkron](http://software.endy.muhardin.com/java/integrasi-aplikasi/). Kapan [memilih teknologi tertentu, dan apa pertimbangannya](http://software.endy.muhardin.com/java/stack-2008-1/)?
 
-Untuk fotografer, dia sudah tidak dipusingkan lagi dengan foto terlalu terang atau kurang terang. Dia bisa menganalisa efek apa yang ditimbulkan dari pemakaian teknik low-key dibandingkan teknik high-key. Bagaimana cara [membuat suatu tempat terkesan luas atau sempit](http://rana.endy.muhardin.com/gears/memahami-lensa/#perspektif). 
-
-Sebagai contoh, Arnold Newman bisa membuat Alfried Krupp [terlihat jahat](http://leemorleyncscreative.wordpress.com/2012/12/02/alfred-krupp-by-arnold-newman/) dengan pemilihan sudut, teknik pencahayaan, dan warna yang tepat
-
-{% img https://lh4.googleusercontent.com/-Tp29dtM4Iog/UuDtL7t0jQI/AAAAAAAADuY/pftr02HivmA/w450-h576-no/newman-krupp.jpg %}
-
-ataupun Joe McNally membuat pastor [terlihat soleh](http://www.joemcnally.com/blog/2013/04/12/masters-time/) dengan memanfaatkan latar belakang dan lampu untuk menimbulkan efek _halo_ di atas kepala
-
-{% img http://www.joemcnally.com/blog/wp-content/uploads/2013/04/Pastor_Grier_027.jpg %}
+Untuk fotografer, dia sudah tidak dipusingkan lagi dengan foto terlalu terang atau kurang terang. Dia bisa menganalisa efek apa yang ditimbulkan dari pemakaian teknik low-key dibandingkan teknik high-key. Bagaimana cara [membuat suatu tempat terkesan luas atau sempit](http://rana.endy.muhardin.com/gears/memahami-lensa/#perspektif).
 
 Semakin sering menganalisa dan semakin banyak pemahaman terhadap prinsip, rule, dan hubungan teknik - situasi - hasil, maka akan semakin dekat seseorang ke tahap Ahli.
 
