@@ -31,3 +31,8 @@ Berikut beberapa poin yang saya dapatkan dari 6 tahun kerja di rumah:
 
 Nah, mudah-mudahan ini bisa menambah wawasan rekan-rekan yang mempertimbangkan untuk kerja di rumah ataupun project manager yang ingin mengijinkan programmernya coding di rumah.
 
+Baca juga beberapa artikel berikut yang membahas masalah ini
+
+* http://daniswara.net/work-hour/
+* http://theoatmeal.com/comics/working_home
+
