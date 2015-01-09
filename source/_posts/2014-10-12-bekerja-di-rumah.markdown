@@ -35,4 +35,5 @@ Baca juga beberapa artikel berikut yang membahas masalah ini
 
 * http://daniswara.net/work-hour/
 * http://theoatmeal.com/comics/working_home
+* http://www.lifehack.org/articles/work/20-bad-things-only-people-who-work-from-home-will-understand.html
 
