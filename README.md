@@ -25,4 +25,6 @@ Frontmatter yang dikenali: `title`, `date`, `venue`, `authors` (list), `link`, `
 
 ## Deploy
 
-GitLab CI (`.gitlab-ci.yml`) membangun `hugo --minify` dan menerbitkan `public/` via GitLab Pages pada branch default.
+GitHub Actions (`.github/workflows/hugo.yml`) membangun `hugo --minify` dan menerbitkan ke GitHub Pages pada setiap push ke `main`. Domain kustom `endy.muhardin.com` di-set lewat `static/CNAME` (disalin Hugo ke `public/CNAME`).
+
+DNS apex untuk GitHub Pages — A record ke `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153` (opsional AAAA ke `2606:50c0:8000::153` dst.).
