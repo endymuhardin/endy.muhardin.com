@@ -11,5 +11,9 @@
   <meta property="og:url" content="{{ .Permalink }}">
   <meta property="og:image" content="{{ .Site.Params.profileImage | absURL }}">
   <link rel="canonical" href="{{ .Permalink }}">
+  <link rel="icon" href="{{ "favicon.svg" | relURL }}" type="image/svg+xml">
+  <meta name="theme-color" content="#fafafa" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#0a0a0b" media="(prefers-color-scheme: dark)">
+  <link rel="preload" href="{{ "fonts/ebgaramond-regular.woff2" | relURL }}" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
 </head>
