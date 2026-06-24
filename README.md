@@ -25,6 +25,11 @@ Frontmatter yang dikenali: `title`, `date`, `venue`, `authors` (list), `link`, `
 
 ## Deploy
 
-GitHub Actions (`.github/workflows/hugo.yml`) membangun `hugo --minify` dan menerbitkan ke GitHub Pages pada setiap push ke `main`. Domain kustom `endy.muhardin.com` di-set lewat `static/CNAME` (disalin Hugo ke `public/CNAME`).
+Host: Cloudflare Workers (static assets), domain `endy.muhardin.com`. Repo di GitHub hanya sebagai source.
 
-DNS apex untuk GitHub Pages — A record ke `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153` (opsional AAAA ke `2606:50c0:8000::153` dst.).
+```sh
+hugo --minify        # build ke public/
+wrangler deploy      # upload assets + custom_domain
+```
+
+`wrangler.jsonc` mendeklarasikan `routes: [{ pattern: "endy.muhardin.com", custom_domain: true }]` — Cloudflare otomatis membuat record DNS di zone `muhardin.com`. Pola sama dengan `garasi.muhardin.com`. Token API CLI tidak punya izin `dns_records`, jadi record dibuat lewat mekanisme custom_domain saat deploy, bukan API DNS langsung.
