@@ -5,14 +5,14 @@ title = 'Endy Muhardin'
 [params]
   description = 'Profil akademik dan profesional Endy Muhardin — Sistem Informasi Keuangan Syariah, payment systems engineering.'
   profileImage = '/images/endy-profile.jpeg'
-  email = 'endy.muhardin@gmail.com'
+  email = 'endy@tazkia.ac.id'
   blog = 'https://software.endy.muhardin.com/'
 
   [params.social]
     github = 'https://github.com/endymuhardin'
     gitlab = 'https://gitlab.com/endymuhardin'
     linkedin = 'https://www.linkedin.com/in/endymuhardin/'
-    youtube = 'https://www.youtube.com/@endymuhardin'
+    youtube = 'https://www.youtube.com/artivisi/playlists'
 
 [markup.goldmark.renderer]
   unsafe = true

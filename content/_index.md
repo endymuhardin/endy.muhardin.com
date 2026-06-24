@@ -21,7 +21,7 @@ Sistem Informasi Keuangan Syariah — irisan dari domain syariah (fiqh muamalah,
 
 ## Kontak
 
-- Email — [endy.muhardin@gmail.com](mailto:endy.muhardin@gmail.com)
+- Email — [endy@tazkia.ac.id](mailto:endy@tazkia.ac.id)
 - Blog teknis — [software.endy.muhardin.com](https://software.endy.muhardin.com/)
 - GitHub — [github.com/endymuhardin](https://github.com/endymuhardin)
 - LinkedIn — [linkedin.com/in/endymuhardin](https://www.linkedin.com/in/endymuhardin/)
