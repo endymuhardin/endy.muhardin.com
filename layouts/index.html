@@ -1,0 +1,13 @@
+{{ define "main" }}
+<section class="profile-hero">
+  <img class="profile-photo" src="{{ .Site.Params.profileImage | relURL }}" alt="Endy Muhardin" width="160" height="160">
+  <div class="profile-intro">
+    <h1>Endy Muhardin</h1>
+    <p class="tagline">{{ .Site.Params.description }}</p>
+  </div>
+</section>
+
+<article class="profile-body">
+  {{ .Content }}
+</article>
+{{ end }}

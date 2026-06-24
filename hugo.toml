@@ -1,0 +1,46 @@
+baseURL = 'https://endy.muhardin.com/'
+locale = 'id-ID'
+title = 'Endy Muhardin'
+
+[params]
+  description = 'Profil akademik dan profesional Endy Muhardin — Sistem Informasi Keuangan Syariah, payment systems engineering.'
+  profileImage = '/images/endy-profile.jpeg'
+  email = 'endy.muhardin@gmail.com'
+  blog = 'https://software.endy.muhardin.com/'
+
+  [params.social]
+    github = 'https://github.com/endymuhardin'
+    gitlab = 'https://gitlab.com/endymuhardin'
+    linkedin = 'https://www.linkedin.com/in/endymuhardin/'
+    youtube = 'https://www.youtube.com/@endymuhardin'
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[taxonomies]
+
+[menu]
+  [[menu.main]]
+    name = 'Profil'
+    pageRef = '/'
+    weight = 1
+  [[menu.main]]
+    name = 'Publikasi'
+    pageRef = '/publikasi'
+    weight = 2
+  [[menu.main]]
+    name = 'Presentasi'
+    pageRef = '/presentasi'
+    weight = 3
+  [[menu.main]]
+    name = 'Pengajaran'
+    pageRef = '/pengajaran'
+    weight = 4
+  [[menu.main]]
+    name = 'Pengabdian'
+    pageRef = '/pengabdian'
+    weight = 5
+  [[menu.main]]
+    name = 'Blog'
+    url = 'https://software.endy.muhardin.com/'
+    weight = 6

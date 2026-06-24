@@ -1,0 +1,16 @@
+{{ define "main" }}
+<article class="single">
+  <header class="page-header">
+    <h1>{{ .Title }}</h1>
+    <div class="entry-meta">
+      {{ with .Params.venue }}<span class="venue">{{ . }}</span>{{ end }}
+      {{ if not .Date.IsZero }}<time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02 Jan 2006" }}</time>{{ end }}
+      {{ with .Params.authors }}<span class="authors">{{ delimit . ", " }}</span>{{ end }}
+    </div>
+    {{ with .Params.link }}<p class="entry-link"><a href="{{ . }}" rel="noopener">Tautan dokumen →</a></p>{{ end }}
+  </header>
+  <div class="single-body">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}

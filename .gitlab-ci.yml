@@ -1,0 +1,21 @@
+default:
+  image: "hugomods/hugo:std-0.163.2"
+
+variables:
+  HUGO_VERSION: "0.163.2"
+
+test:
+  script:
+    - hugo --minify
+  rules:
+    - if: $CI_COMMIT_BRANCH != $CI_DEFAULT_BRANCH
+
+pages:
+  script:
+    - hugo --minify
+  artifacts:
+    paths:
+      - public
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+  environment: production

@@ -1,0 +1,25 @@
+{{ define "main" }}
+<header class="page-header">
+  <h1>{{ .Title }}</h1>
+</header>
+
+{{ with .Content }}<div class="page-intro">{{ . }}</div>{{ end }}
+
+{{ $pages := .Pages.ByDate.Reverse }}
+{{ with $pages }}
+<ul class="entry-list">
+  {{ range . }}
+  <li class="entry">
+    <a class="entry-title" href="{{ .RelPermalink }}">{{ .Title }}</a>
+    <div class="entry-meta">
+      {{ with .Params.venue }}<span class="venue">{{ . }}</span>{{ end }}
+      {{ if not .Date.IsZero }}<time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2006" }}</time>{{ end }}
+    </div>
+    {{ with .Params.summary }}<p class="entry-summary">{{ . }}</p>{{ end }}
+  </li>
+  {{ end }}
+</ul>
+{{ else }}
+<p class="empty-state">Belum ada entri pada bagian ini.</p>
+{{ end }}
+{{ end }}
