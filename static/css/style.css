@@ -278,6 +278,66 @@ time, .entry-meta time { font-variant-numeric: tabular-nums; }
 }
 .single-body { font-size: 1.05rem; }
 
+/* ── Content tables (course lists, etc.) ─────────────────── */
+.page-intro h3 {
+  font-family: var(--font-sans);
+  font-size: 0.9rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--faint);
+  margin: 2.5rem 0 0.9rem;
+}
+.page-intro h3::after {
+  content: "";
+  display: block;
+  width: 28px;
+  height: 2px;
+  background: var(--accent);
+  margin-top: 0.5rem;
+}
+.page-intro table,
+.single-body table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0 0 1.5rem;
+  font-size: 0.95rem;
+}
+.page-intro thead th,
+.single-body thead th {
+  font-family: var(--font-sans);
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: var(--faint);
+  text-align: left;
+  padding: 0 0.9rem 0.5rem 0;
+  border-bottom: 1.5px solid var(--border);
+}
+.page-intro tbody td,
+.single-body tbody td {
+  padding: 0.6rem 0.9rem 0.6rem 0;
+  border-bottom: 1px solid var(--border);
+  color: var(--muted);
+  vertical-align: baseline;
+}
+.page-intro tbody tr:last-child td { border-bottom: 0; }
+.page-intro tbody tr:hover td { background: var(--accent-soft); }
+.page-intro tbody td:first-child {
+  color: var(--fg);
+  font-weight: 500;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+.page-intro th:last-child,
+.page-intro td:last-child {
+  text-align: center;
+  width: 3.25rem;
+  padding-right: 0;
+  font-variant-numeric: tabular-nums;
+}
+
 /* ── Footer ──────────────────────────────────────────────── */
 .site-footer {
   border-top: 1px solid var(--border);
